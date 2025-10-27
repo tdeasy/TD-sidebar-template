@@ -1,0 +1,15 @@
+:root {
+  --bg-color: #1C1C1C;
+  --text-color: #FFFFFF;
+  --muted-text: #B8B8B8;
+  --border-color: #2A2A2A;
+  --accent-cyan: #00FFFF;
+  --accent-violet: #7D5FFF;
+  --accent-amber: #FFC300;
+  --accent-magenta: #FF2BC2;
+  --accent-red: #FF3B3B;
+  --font-main: 'MyTupi', monospace;
+  --container: 1100px;
+  --radius: 12px;
+  --shadow: 0 8px 24px rgba(0,0,0,0.25);
+}

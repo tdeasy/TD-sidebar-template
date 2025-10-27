@@ -1,0 +1,9 @@
+{
+  "name": "Tim Deasy — Ableton Aesthetic",
+  "short_name": "TD Ableton",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1C1C1C",
+  "theme_color": "#00FFFF",
+  "icons": []
+}
